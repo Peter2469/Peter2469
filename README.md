@@ -1,9 +1,18 @@
-# Peter2469 | Peter Nokes
-### Programmer | University Student | Gamer
+# Welcome to my GitHub Profile
 
-## Current Projects
-##### [Itsuki](https://www.github.con/Peter2469/Itsuki-Public) - Programmed in Python, Started the bot in 2019 and still gets updated.
-##### [Personal Website](https://www.github.com/Peter2469/Website) - Programmed in HTML/CSS and JS, Wanted to have a [website](https://www.peternokes.co.uk) to list my projects and I can never seem to find a website design to stick too.
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
-### Do you want to help fund my projects?
-##### I got a [PayPal](https://www.paypal.me/PeterNokes) and a [GitHub Sponsor](https://www.github.com/sponsors/Peter2469) link.
+My name is Peter Nokes also known as Peter2469 and I'm an university student currently studying Computer Science; You can discover my projects on my repository which I have done in my ***own free time***!
+
+You can visit my portfolio site here at [peternokes.co.uk](https://peternokes.co.uk)
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peter2469&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Peter2469&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Peter's GitHub Stats" />
+</div>
+
