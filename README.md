@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
-My name is Peter Nokes also known as Peter2469 and I'm an university student currently studying Computer Science; You can discover my projects on my repository which I have done in my ***own free time!***
+My name is Peter Nokes also known as Peter2469 and I'm a graduate Computer Science student; You can discover my projects on my repository which I have done in my ***own free time!***
 
 You can visit my portfolio site here at [peternokes.co.uk](https://peternokes.co.uk)
 
